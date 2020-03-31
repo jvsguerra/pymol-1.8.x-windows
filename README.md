@@ -2,7 +2,8 @@
 
 ### Download and Install Python 2.7.17
 - Download Python 2.7.17 from https://www.python.org/ftp/python/2.7.17/python-2.7.17.amd64.msi.
-NOTE: When installing check the location where you are installing Python. Usually it is installed in C:\Python27
+
+NOTE: When installing, check the location where you are installing Python. Usually it is installed in C:\Python27.
 
 ### PyMOL 1.8.x installation
 - Download the latest release from [here](https://github.com/jvsguerra/pymol-1.8.x-windows/releases/).
