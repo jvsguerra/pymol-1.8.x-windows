@@ -1,4 +1,4 @@
-# Open-Source PyMOL 1.8.x for Windows
+# Open-source PyMOL 1.8.x for Windows
 
 ### Download and Install Python 2.7.17
 - Download Python 2.7.17 from https://www.python.org/ftp/python/2.7.17/python-2.7.17.amd64.msi.
